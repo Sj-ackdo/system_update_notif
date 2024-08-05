@@ -7,5 +7,5 @@ fi
 
 for arg in "$@"
 do
-    echo "Argument: $arg"
+    # yipppieeee!!!
 done
